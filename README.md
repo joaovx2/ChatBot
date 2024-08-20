@@ -10,5 +10,5 @@ Modify the content to your desire initial prompt.
 
 node index.js starts the bot.
 
-This bot will scam your message, remember your previous 100 message and reply to every message you send, it will also send messages that are over the limit 2000 characters by breaking it into different messages 
+This bot will read your message, remember your previous 100 message and reply to every message you send, it will also send messages that are over the limit 2000 characters by breaking it into different messages 
 
